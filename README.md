@@ -1,0 +1,2 @@
+# PikachuObf-Deobf
+OvaqRebornSkiddedClientに使われていた難読化の解除ツールです
