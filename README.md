@@ -1,2 +1,5 @@
 # PikachuObf-Deobf
 OvaqRebornSkiddedClientに使われていた難読化の解除ツールです
+
+Thanks Kimi K3 
+コメントアウトは勝手に付けられて消すのが面倒だったのでそのままです
